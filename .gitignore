@@ -1,0 +1,6 @@
+cache/
+log/
+lib/vendor/symfony/test/functional/fixtures/cache
+lib/vendor/symfony/test/functional/fixtures/log
+lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/data/database.sqlite
+
